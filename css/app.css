@@ -11,12 +11,17 @@ header {
     padding: 10px;
     position: fixed;
 }
-
 nav a {
     color: #fff;
     text-decoration: none;
     font-size: 2em;
     margin: 0 10px;
+}
+.scrolling{
+    color: #aec434;
+}
+.scrolling:hover{
+    color: #000;
 }
 
 nav a:hover {
